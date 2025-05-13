@@ -1,7 +1,3 @@
-Voici un exemple de fichier `README.md` pour ton site web **Ghibli**, réalisé en **HTML** et **CSS**, hébergé sur GitHub Pages à l'adresse : [https://raphl29.github.io/Site-Web-Ghibli/](https://raphl29.github.io/Site-Web-Ghibli/).
-
----
-
 # 🌸 Site Web Ghibli
 
 Bienvenue sur le **Site Web Ghibli**, un projet personnel dédié à l'univers enchanteur des studios **Ghibli**, réalisé uniquement en **HTML** et **CSS**.
